@@ -79,7 +79,7 @@ Follow these steps to set up and run the project:
 
 ## Screenshots
 
-Screenshot
+![](https://github.com/VishalxVG/MovieRecommendationSystem/blob/main/Screenshot%20(101).png)
 
 
 ## Usage
