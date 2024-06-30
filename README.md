@@ -11,8 +11,10 @@ This project implements a movie recommendation system using machine learning tec
 - **TMDB API**: The Movie Database API for fetching movie information and posters.
 - **Pickle**: For saving and loading the recommendation model as a `.pkl` file.
 
-## Dataset 
-- ![**TMDB 5000 Movies Dataset**](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+## ## Database
+
+- You can download the database file [here]([https://example.com/database.sql](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)).
+
 
 ## How It Works
 
@@ -74,6 +76,9 @@ Follow these steps to set up and run the project:
 6. **Open the Web Interface**
 
     Open your web browser and go to `http://localhost:8501` to use the movie recommendation system.
+
+## Screenshots
+
 
 ## Usage
 
