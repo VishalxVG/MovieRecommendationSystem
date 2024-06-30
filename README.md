@@ -13,7 +13,7 @@ This project implements a movie recommendation system using machine learning tec
 
 ## ## Database
 
-- You can download the database file [here]([https://example.com/database.sql](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)).
+- You can download the database file [here](https://example.com/database.sql](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)).
 
 
 ## How It Works
