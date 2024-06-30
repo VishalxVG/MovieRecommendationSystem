@@ -13,7 +13,7 @@ This project implements a movie recommendation system using machine learning tec
 
 ## ## Database
 
-- You can download the database file [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)).
+- You can download the database file [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 
 ## How It Works
@@ -78,6 +78,8 @@ Follow these steps to set up and run the project:
     Open your web browser and go to `http://localhost:8501` to use the movie recommendation system.
 
 ## Screenshots
+
+Screenshot
 
 
 ## Usage
