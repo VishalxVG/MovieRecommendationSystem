@@ -80,6 +80,9 @@ Follow these steps to set up and run the project:
 ## Screenshots
 
 ![](https://github.com/VishalxVG/MovieRecommendationSystem/blob/main/Screenshot%20(101).png)
+![](https://github.com/VishalxVG/MovieRecommendationSystem/blob/main/Screenshot%20(102).png)
+![](https://github.com/VishalxVG/MovieRecommendationSystem/blob/main/Screenshot%20(103).png)
+![](https://github.com/VishalxVG/MovieRecommendationSystem/blob/main/Screenshot%20(104).png)
 
 
 ## Usage
