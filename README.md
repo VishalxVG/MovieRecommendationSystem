@@ -24,9 +24,6 @@ This project implements a movie recommendation system using machine learning tec
 4. **Web Interface**: The recommendation system is deployed using Streamlit to provide an interactive web interface.
 5. **Fetching Posters**: TMDB API is used to fetch movie posters based on the recommended movies.
 
-## Database
-
-[Describe your database here if using SQLite/MySQL/PostgreSQL]
 
 ## Pickle File
 
